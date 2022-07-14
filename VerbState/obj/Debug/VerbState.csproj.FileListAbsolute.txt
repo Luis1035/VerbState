@@ -1,0 +1,15 @@
+D:\Codigo\VerbState\VerbState\bin\Debug\VerbState.exe.config
+D:\Codigo\VerbState\VerbState\bin\Debug\VerbState.exe
+D:\Codigo\VerbState\VerbState\bin\Debug\VerbState.pdb
+D:\Codigo\VerbState\VerbState\bin\Debug\EntityFramework.dll
+D:\Codigo\VerbState\VerbState\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo\VerbState\VerbState\bin\Debug\EntityFramework.xml
+D:\Codigo\VerbState\VerbState\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.FrmPrincipal.resources
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.Properties.Resources.resources
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.csproj.GenerateResource.cache
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.csproj.CoreCompileInputs.cache
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.csproj.CopyComplete
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.exe
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.pdb
+D:\Codigo\VerbState\VerbState\obj\Debug\VerbState.csprojAssemblyReference.cache
